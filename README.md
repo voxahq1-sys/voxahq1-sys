@@ -1,16 +1,15 @@
-## Hi there 👋
+# VOXA
 
-<!--
-**voxahq1-sys/voxahq1-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent, plainly written guide to AI tools and automation software.
 
-Here are some ideas to get you started:
+We check AI tool prices by hand, publish the numbers, and say when a vendor will not confirm them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Site: https://voxahq.in/
+- News: https://voxahq.in/news/
+- Guides: https://voxahq.in/guides
+- Notes: https://voxahq.in/notes
+- Picks (affiliate links, disclosed): https://voxahq.in/picks
+- Contact: voxa.hq1@gmail.com
+
+Editorial rules: https://voxahq.in/editorial-policy
+How we check tools: https://voxahq.in/how-we-test
